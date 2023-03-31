@@ -7,3 +7,28 @@
 :root {
   font-size: 62.5%;
 }
+
+body {
+  display: grid;
+  grid-template-columns: 72rem 1fr;
+  grid-template-rows: 14.4rem 1fr;
+  grid-template-areas:
+    "header aside"
+    "main aside";
+  height: 100vh;
+}
+
+header {
+  grid-area: header;
+  background: #121214;
+}
+
+main {
+  grid-area: main;
+  background: #121214;
+}
+
+aside {
+  grid-area: aside;
+  background: url(./assets/image.png) no-repeat 100% / cover;
+}
