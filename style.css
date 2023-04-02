@@ -120,6 +120,19 @@ form label {
   cursor: pointer;
 }
 
+a {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  width: max-content;
+
+  font-family: "Spartan", sans-serif;
+  color: #8257e5;
+  font-size: 1.4rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
 aside {
   grid-area: aside;
   background: url(./assets/image.png) no-repeat 100% / cover;
