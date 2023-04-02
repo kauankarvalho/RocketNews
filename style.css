@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  border: none;
 }
 
 :root {
@@ -32,6 +33,10 @@ main {
   grid-area: main;
   background: #121214;
   padding: 9.2rem 0 0 3.6rem;
+
+  display: flex;
+  flex-direction: column;
+  gap: 5rem;
 }
 
 section {
@@ -62,6 +67,57 @@ section p {
   font-size: 1.4rem;
   font-weight: 400;
   line-height: 1.9rem;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.7rem;
+
+  width: 79.8rem;
+  position: relative;
+}
+
+form label {
+  font-family: "Spartan", sans-serif;
+  color: #a8a8a8;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.9rem;
+  cursor: text;
+}
+
+#input-button {
+  display: flex;
+}
+
+#input-button input {
+  padding: 1.7rem 0 1.7rem 1rem;
+  color: #121214;
+
+  border-left: 5px solid #08c05e;
+  outline: none;
+  width: 75rem;
+  height: 4.8rem;
+}
+
+#input-button input::placeholder {
+  font-family: "Work Sans", sans-serif;
+  color: #6a6a6a;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.4rem;
+}
+
+#input-button button {
+  background: #8257e5;
+  width: 4.8rem;
+  height: 4.8rem;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
 }
 
 aside {
