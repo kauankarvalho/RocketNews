@@ -95,7 +95,9 @@ form label {
 
 #input-button input {
   padding: 1.7rem 0 1.7rem 1rem;
+  font-family: "Work Sans", sans-serif;
   color: #121214;
+  font-weight: 400;
 
   border-left: 5px solid #08c05e;
   outline: none;
