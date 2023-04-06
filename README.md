@@ -34,11 +34,12 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 - Aprimorei a estrutura dos inputs no projeto, utilizando atributos adequados para melhorar a usabilidade e a acessibilidade;
 - Pratiquei e aprimorei minhas habilidades no uso do Display Grid do CSS, uma poderosa ferramenta para criar layouts complexos e responsivos;
 - Aperfeiçoei minhas habilidades no uso do FlexBox do CSS, uma técnica simples e eficaz para criar layouts flexíveis e adaptáveis;
-- Dediquei-me a melhorar a semântica do HTML em meus projetos, utilizando tags apropriadas para cada tipo de conteúdo e tornando o código mais legível e acessível para todos.
+- Dediquei-me a melhorar a semântica do HTML em meus projetos, utilizando tags apropriadas para cada tipo de conteúdo e tornando o código mais legível e acessível para todos;
+- Com JavaScript, aprendi como salvar e checar e-mails únicos.
 
 ## 💻 Projeto
 
-O RocketNews é um desafio proposto pelo curso Discover da Rocketseat para ajudar os alunos a desenvolverem suas habilidades em desenvolvimento web. Nesse projeto, os alunos são desafiados a criar um site de notícias responsivo, utilizando as tecnologias aprendidas durante o curso, como HTML e CSS.
+O RocketNews é um desafio proposto pelo curso Discover da Rocketseat para ajudar os alunos a desenvolverem suas habilidades em desenvolvimento web. Nesse projeto, os alunos são desafiados a criar um site de notícias responsivo, utilizando as tecnologias aprendidas durante o curso, como HTML, CSS e JavaScript.
 
 ## 💡 Tecnologias
 
@@ -46,6 +47,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Figma](https://www.figma.com)
 - [ICONS8](https://icons8.com)
 
