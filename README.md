@@ -41,7 +41,7 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 O RocketNews é um desafio proposto pelo curso Discover da Rocketseat para ajudar os alunos a desenvolverem suas habilidades em desenvolvimento web. Nesse projeto, os alunos são desafiados a criar um site de notícias responsivo, utilizando as tecnologias aprendidas durante o curso, como HTML, CSS e JavaScript.
 
-## 💡 Tecnologias
+## 🧪 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
